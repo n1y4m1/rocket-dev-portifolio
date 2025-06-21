@@ -89,6 +89,3 @@
   border: none;
 }
 
-#scroll:active {
-  animation: active paused 1s ease-in;
-}
